@@ -1,0 +1,4 @@
+links = //h2[@class="spotlightPrincipalContentHeadlineSecond spotlightPrincipalContentSecond"]/a/@href
+title = //h1[@class="DefaultTitle"]/text()
+sub_title = //h2[@class="DefaultSubtitle"]/text()
+content = //section[@class="section-visibility"]/p[@class]/text()
